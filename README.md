@@ -1,5 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gimsara Pieris – Software Engineering Undergraduate.
-I’m an aspiring Software Engineer passionate about coding, problem-solving, and learning new technologies. On my GitHub, you’ll find projects that showcase my skills in Python, C+, Java, web development. 
+I’m an aspiring Software Engineer passionate about coding, problem-solving, and learning new technologies. On my GitHub, you’ll find projects that showcase my skills in Python, C+, Java, PHP, web development. 
 💻 What I do:  Build and experiment with coding projects  Explore software development practices and algorithms  Apply learning to real-world problems 
 🚀 Goals:  Grow as a proficient software developer  Contribute to meaningful projects and open-source communities  
 🌱 Currently learning: Advanced Python projects, and software engineering best practices.  
