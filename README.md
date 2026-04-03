@@ -88,18 +88,6 @@ A full-stack web application that provides **real-time, province-level threat al
 
 ---
 
-### 📁 Other Projects
-
-| Project | Tech | Description |
-|---|---|---|
-| *(Add your project name)* | *(Languages/tools)* | *(Short description)* |
-| *(Add your project name)* | *(Languages/tools)* | *(Short description)* |
-| *(Add your project name)* | *(Languages/tools)* | *(Short description)* |
-
-> 💡 *Fill in your other repos from [github.com/Gimsara2004](https://github.com/Gimsara2004)*
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -117,16 +105,6 @@ A full-stack web application that provides **real-time, province-level threat al
 </a>
 
 </div>
-
----
-
-## 🎯 2025 Goals
-
-- [ ] Complete SafeZone and deploy it publicly
-- [ ] Contribute to an open-source project
-- [ ] Build a Python data project
-- [ ] Land a software internship
-- [ ] Learn a new framework (Laravel or React)
 
 ---
 
