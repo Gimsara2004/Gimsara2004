@@ -92,16 +92,15 @@ A full-stack web application that provides **real-time, province-level threat al
 
 <div align="center">
 
-<a href="http://www.github.com/Gimsara2004">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gimsara2004&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Gimsara2004's GitHub stats" />
-</a>
-
-<a href="http://www.github.com/Gimsara2004">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gimsara2004&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
-
 <a href="https://github.com/Gimsara2004">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gimsara2004&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gimsara2004&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Gimsara2004's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gimsara2004&langs_count=10&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&custom_title=Top%20Languages" alt="Top Languages" />
+</a>
+
+<br/>
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=Gimsara2004&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
 </a>
 
 </div>
