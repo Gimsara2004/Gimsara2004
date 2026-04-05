@@ -106,7 +106,13 @@ const gimsara = {
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gimsara2004&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f85149&area=true&hide_border=true" alt="Contribution Graph" />
+### 🌱 Contribution Graph
+
+<img src="https://ghchart.rshah.org/239a3b/Gimsara2004" alt="Gimsara2004's Contribution Graph" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gimsara2004&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f85149&area=true&hide_border=true" alt="Activity Graph" />
 
 </div>
 
