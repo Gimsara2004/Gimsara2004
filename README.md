@@ -26,6 +26,7 @@ const gimsara = {
   focus    : ["Full-Stack Web Dev", "Problem Solving", "Software Architecture"],
   current  : "Building SafeZone — Real-time civilian safety platform",
   learning : ["Python", "Advanced Algorithms", "Software Engineering"],
+  open_to  : ["Open Source", "Collaborations", "Real-world Projects"],
   motto    : "Student Today | Engineer Tomorrow | Coder Forever 🔥"
 };
 ```
@@ -84,7 +85,9 @@ const gimsara = {
 | 👤 **Civilian Accounts** | Province-based personalised alert feed |
 | 📢 **Incident Reporting** | Civilians submit reports; admin reviews before publishing |
 | ⚙️ **Admin Dashboard** | Full CRUD for alerts, zones, and civilian reports |
-| 🤖 **AI Assistant** | Gemini-powered chat for emergency guidance |
+| 🤖 **AI Assistant** | Gemini-powered chat for real-time emergency guidance |
+
+**Tech highlights:** 3-tier architecture · PDO prepared statements · Session-based role auth · JSON-encoded map data
 
 [![View Repo](https://img.shields.io/badge/View%20on%20GitHub-SafeZone-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Gimsara2004/safezone)
 
@@ -94,16 +97,16 @@ const gimsara = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gimsara2004&show_icons=true&count_private=true&title_color=58a6ff&text_color=cdd9e5&icon_color=58a6ff&bg_color=0d1117&hide_border=true&border_radius=10" />
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gimsara2004&langs_count=10&layout=compact&title_color=58a6ff&text_color=cdd9e5&icon_color=58a6ff&bg_color=0d1117&hide_border=true&border_radius=10&custom_title=Top%20Languages" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gimsara2004&show_icons=true&count_private=true&title_color=58a6ff&text_color=cdd9e5&icon_color=58a6ff&bg_color=0d1117&hide_border=true&border_radius=10" alt="Gimsara2004's GitHub stats" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gimsara2004&langs_count=10&layout=compact&title_color=58a6ff&text_color=cdd9e5&icon_color=58a6ff&bg_color=0d1117&hide_border=true&border_radius=10&custom_title=Top%20Languages" alt="Top Languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Gimsara2004&stroke=58a6ff&background=0d1117&ring=58a6ff&fire=f85149&currStreakNum=cdd9e5&currStreakLabel=58a6ff&sideNums=cdd9e5&sideLabels=8b949e&dates=8b949e&hide_border=true&border_radius=10" />
+<img src="https://streak-stats.demolab.com/?user=Gimsara2004&stroke=58a6ff&background=0d1117&ring=58a6ff&fire=f85149&currStreakNum=cdd9e5&currStreakLabel=58a6ff&sideNums=cdd9e5&sideLabels=8b949e&dates=8b949e&hide_border=true&border_radius=10" alt="GitHub Streak" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gimsara2004&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f85149&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gimsara2004&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f85149&area=true&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
@@ -123,6 +126,6 @@ I'm always open to collaborating on interesting projects, discussing ideas, or j
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer&fontColor=58a6ff)
 
-<img src="https://komarev.com/ghpvc/?username=Gimsara2004&color=58a6ff&style=for-the-badge&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=Gimsara2004&color=58a6ff&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 
 </div>
