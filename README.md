@@ -1,4 +1,4 @@
-<div align="center">  
+<div align="center">
   <h1>Hi, I'm Gimsara Pieris 👋</h1>
   <h3>Software Engineering Undergraduate | Full-Stack Web Developer</h3>
 
@@ -8,7 +8,6 @@
 ---
 
 ## 👨‍💻 About Me
-
 - 🎓 2nd Year Software Engineering Undergraduate from Sri Lanka
 - 🔭 Currently building **SafeZone** — Real-time civilian safety platform
 - 🌱 Learning Advanced Algorithms, System Design & Cloud Technologies
@@ -64,6 +63,26 @@ A full-stack web application providing **real-time threat alerts** and **interac
   <br/>
   <img src="https://streak-stats.demolab.com/?user=Gimsara2004&stroke=58a6ff&background=0d1117&ring=58a6ff&fire=f85149&currStreakNum=cdd9e5&currStreakLabel=58a6ff&sideNums=cdd9e5&sideLabels=8b949e&dates=8b949e&hide_border=true&border_radius=10" alt="Streak"/>
 </div>
+
+---
+
+## 📅 Contribution Overview
+
+<div align="center">
+
+| Period          | Contributions | Longest Streak | Current Streak |
+|-----------------|---------------|----------------|---------------|
+| **All Time**    | 24+           | 7 days         | 0 days        |
+| **2025**        | Active        | -              | -             |
+| **This Month**  | Ongoing       | -              | -             |
+
+</div>
+
+**Contribution Snake**
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Gimsara2004/Gimsara2004/output/github-contribution-grid-snake.svg)
+
+---
 
 ## 🤝 Let's Connect
 
