@@ -1,5 +1,7 @@
-<div align="center">
+Here's the **full clean code** for your GitHub README.md with the contribution graphs completely removed:
 
+```markdown
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Gimsara%20Pieris&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Undergraduate%20·%20Sri%20Lanka&descAlignY=55&descColor=8b949e)
 
 <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"/>
@@ -12,7 +14,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gimsara%20Pieris-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/gimsara-pieris-a39311343)
 [![Email](https://img.shields.io/badge/Email-gimsarapieris6@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:gimsarapieris6@gmail.com)
 [![Location](https://img.shields.io/badge/📍%20Sri%20Lanka-3fb950?style=for-the-badge&logoColor=white&labelColor=0d1117)](https://en.wikipedia.org/wiki/Sri_Lanka)
-
 </div>
 
 ---
@@ -21,13 +22,13 @@
 
 ```javascript
 const gimsara = {
-  role     : "Software Engineering Undergraduate · 2nd Year",
+  role : "Software Engineering Undergraduate · 2nd Year",
   location : "Sri Lanka 🇱🇰",
-  focus    : ["Full-Stack Web Dev", "Problem Solving", "Software Architecture"],
-  current  : "Building SafeZone — Real-time civilian safety platform",
+  focus : ["Full-Stack Web Dev", "Problem Solving", "Software Architecture"],
+  current : "Building SafeZone — Real-time civilian safety platform",
   learning : ["Python", "Advanced Algorithms", "Software Engineering"],
-  open_to  : ["Open Source", "Collaborations", "Real-world Projects"],
-  motto    : "Student Today | Engineer Tomorrow | Coder Forever 🔥"
+  open_to : ["Open Source", "Collaborations", "Real-world Projects"],
+  motto : "Student Today | Engineer Tomorrow | Coder Forever 🔥"
 };
 ```
 
@@ -96,24 +97,10 @@ const gimsara = {
 ## 📊 GitHub Stats
 
 <div align="center">
-
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gimsara2004&show_icons=true&count_private=true&title_color=58a6ff&text_color=cdd9e5&icon_color=58a6ff&bg_color=0d1117&hide_border=true&border_radius=10" alt="Gimsara2004's GitHub stats" />
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gimsara2004&langs_count=10&layout=compact&title_color=58a6ff&text_color=cdd9e5&icon_color=58a6ff&bg_color=0d1117&hide_border=true&border_radius=10&custom_title=Top%20Languages" alt="Top Languages" />
-
 <br/>
-
 <img src="https://streak-stats.demolab.com/?user=Gimsara2004&stroke=58a6ff&background=0d1117&ring=58a6ff&fire=f85149&currStreakNum=cdd9e5&currStreakLabel=58a6ff&sideNums=cdd9e5&sideLabels=8b949e&dates=8b949e&hide_border=true&border_radius=10" alt="GitHub Streak" />
-
-<br/>
-
-### 🌱 Contribution Graph
-
-<img src="https://ghchart.rshah.org/239a3b/Gimsara2004" alt="Gimsara2004's Contribution Graph" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gimsara2004&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f85149&area=true&hide_border=true" alt="Activity Graph" />
-
 </div>
 
 ---
@@ -121,7 +108,6 @@ const gimsara = {
 ## 🤝 Let's Connect
 
 <div align="center">
-
 I'm always open to collaborating on interesting projects, discussing ideas, or just connecting with fellow developers!
 
 [![Email](https://img.shields.io/badge/gimsarapieris6@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gimsarapieris6@gmail.com)
@@ -133,5 +119,17 @@ I'm always open to collaborating on interesting projects, discussing ideas, or j
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer&fontColor=58a6ff)
 
 <img src="https://komarev.com/ghpvc/?username=Gimsara2004&color=58a6ff&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-
 </div>
+```
+
+**How to use:**
+1. Go to your GitHub repository
+2. Click on `README.md`
+3. Click **Edit** (pencil icon)
+4. Delete all existing content
+5. Paste the full code above
+6. Click **Commit changes**
+
+Done! The unwanted contribution graphs are now completely removed.
+
+Would you like a more minimal version (even shorter)? Let me know.
