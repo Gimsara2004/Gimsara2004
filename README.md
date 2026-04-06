@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/YOUR_USER_ID?v=4" alt="Gimsara Pieris" style="border-radius:50%;"/>
-  
+<div align="center">  
   <h1>Hi, I'm Gimsara Pieris 👋</h1>
   <h3>Software Engineering Undergraduate | Full-Stack Web Developer</h3>
 
@@ -66,11 +64,6 @@ A full-stack web application providing **real-time threat alerts** and **interac
   <br/>
   <img src="https://streak-stats.demolab.com/?user=Gimsara2004&stroke=58a6ff&background=0d1117&ring=58a6ff&fire=f85149&currStreakNum=cdd9e5&currStreakLabel=58a6ff&sideNums=cdd9e5&sideLabels=8b949e&dates=8b949e&hide_border=true&border_radius=10" alt="Streak"/>
 </div>
-
-### Contribution Snake
-![GitHub Contribution Snake](https://github.com/Gimsara2004/Gimsara2004/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ## 🤝 Let's Connect
 
