@@ -1,103 +1,136 @@
 <div align="center">
-  <h1>Hi, I'm Gimsara Pieris 👋</h1>
-  <h3>Software Engineering Undergraduate | Full-Stack Web Developer</h3>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+real-world+solutions+🚀;PHP+%7C+Python+%7C+Java+%7C+JavaScript;Currently+working+on+SafeZone)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Gimsara%20Pieris&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=60&descSize=18&descColor=8b949e" />
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Engineering+Undergraduate+%F0%9F%8E%93;Full-Stack+Web+Developer+%F0%9F%8C%90;Building+SafeZone+%F0%9F%9B%A1%EF%B8%8F;PHP+%7C+Python+%7C+Java+%7C+JavaScript;Code.+Learn.+Build.+Repeat.+%F0%9F%9A%80)](https://git.io/typing-svg)
+
 </div>
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 2nd Year Software Engineering Undergraduate from Sri Lanka
-- 🔭 Currently building **SafeZone** — Real-time civilian safety platform
-- 🌱 Learning Advanced Algorithms, System Design & Cloud Technologies
-- 💡 Passionate about Full-Stack Development and Problem Solving
-- 📫 Open to collaborations and real-world projects
+## 🧑‍💻 About Me
+
+- 🎓 **Software Engineering Undergraduate** at BCI Campus, Negombo, Sri Lanka
+- 🔭 Currently working on: **SafeZone** — Real-time civilian safety platform using **PHP & Python**
+- 🤝 Looking to collaborate on: **Open-source software, research projects, and innovative tech solutions**
+- 🆘 Looking for help with: **Advanced system architecture, AI projects, and large-scale system design**
+- 📚 Currently learning: **Software Engineering, Object-Oriented Programming, and modern development tools**
+- 💬 Ask me about: **PHP, Python, Full-Stack Web Development, and System Design**
+- ⚡ Fun fact: I enjoy turning complex ideas into working software systems 🚀
 
 ---
 
-## 🛠️ Tech Stack
+## 🌐 Connect With Me
 
-### Languages
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gimsara%20Pieris-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gimsara-pieris-a39311343)
+[![GitHub](https://img.shields.io/badge/GitHub-Gimsara2004-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gimsara2004)
+[![Gmail](https://img.shields.io/badge/Email-gimsarapieris6%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gimsarapieris6@gmail.com)
+
+</div>
+
+---
+
+## 💻 Tech Stack
+
+### 👨‍💻 Programming
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### Web & Tools
+### 🌐 Web Development
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### 🗄️ Databases
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🛠️ Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-### 🛡️ SafeZone — Real-Time Civilian Safety Platform
-
-**Status:** Active  
-
-A full-stack web application providing **real-time threat alerts** and **interactive shelter mapping** for civilians across Sri Lanka during emergencies.
-
-**Key Features:**
-- 🚨 Live province-level alerts (Warning / Danger / Critical)
-- 🗺️ Interactive Leaflet map with safe zones
-- 🏥 Shelter directory with capacity tracking
-- 👤 Personalized civilian alert feed
-- 📢 Incident reporting + Admin dashboard
-- 🤖 AI Assistant (Gemini)
-
-[![View Repository](https://img.shields.io/badge/View%20on%20GitHub-SafeZone-58a6ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gimsara2004/safezone)
+- 🛡️ **SafeZone** (PHP, Python) — Real-time civilian safety platform with live threat alerts, interactive shelter mapping, incident reporting, AI assistant (Gemini), and admin dashboard for Sri Lanka.
+  - Repo: [Gimsara2004/safezone](https://github.com/Gimsara2004/safezone)
 
 ---
 
-## 📊 GitHub Stats
+## 🧑‍💻 Developer Lifestyle
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gimsara2004&show_icons=true&count_private=true&title_color=58a6ff&text_color=cdd9e5&icon_color=58a6ff&bg_color=0d1117&hide_border=true&border_radius=10" alt="Stats"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gimsara2004&langs_count=8&layout=compact&title_color=58a6ff&text_color=cdd9e5&icon_color=58a6ff&bg_color=0d1117&hide_border=true&border_radius=10" alt="Top Languages"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=Gimsara2004&stroke=58a6ff&background=0d1117&ring=58a6ff&fire=f85149&currStreakNum=cdd9e5&currStreakLabel=58a6ff&sideNums=cdd9e5&sideLabels=8b949e&dates=8b949e&hide_border=true&border_radius=10" alt="Streak"/>
+
+![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 </div>
 
 ---
 
-## 📅 Contribution Overview
+## 📊 GitHub Analytics
 
 <div align="center">
 
-| Period          | Contributions | Longest Streak | Current Streak |
-|-----------------|---------------|----------------|---------------|
-| **All Time**    | 24+           | 7 days         | 0 days        |
-| **2025**        | Active        | -              | -             |
-| **This Month**  | Ongoing       | -              | -             |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gimsara2004&show_icons=true&count_private=true&title_color=58a6ff&text_color=cdd9e5&icon_color=58a6ff&bg_color=0d1117&hide_border=true&border_radius=10)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gimsara2004&langs_count=8&layout=compact&title_color=58a6ff&text_color=cdd9e5&icon_color=58a6ff&bg_color=0d1117&hide_border=true&border_radius=10)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Gimsara2004&stroke=58a6ff&background=0d1117&ring=58a6ff&fire=f85149&currStreakNum=cdd9e5&currStreakLabel=58a6ff&sideNums=cdd9e5&sideLabels=8b949e&dates=8b949e&hide_border=true&border_radius=10)
 
 </div>
-
-**Contribution Snake**
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Gimsara2004/Gimsara2004/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 🤝 Let's Connect
+## 🌐 3D Contribution Graph
 
 <div align="center">
-  <a href="mailto:gimsarapieris6@gmail.com">
-    <img src="https://img.shields.io/badge/Email-gimsarapieris6@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/gimsara-pieris-a39311343">
-    <img src="https://img.shields.io/badge/LinkedIn-Gimsara%20Pieris-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Gimsara2004">
-    <img src="https://img.shields.io/badge/GitHub-Gimsara2004-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+
+[![Gimsara's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gimsara2004&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
-<br/>
+---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer&fontColor=58a6ff)
+## 🎖️ GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gimsara2004&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<div align="center">
+
+✨ *"Code. Learn. Build. Repeat."* ✨
+
+### 🎯 Personal Motto
+
+*Code with purpose, design with clarity, and learn without limits.*
+
+---
+
+⭐ If you like my work, consider giving a star to my repositories — it really motivates me!
+
+[![Follow Me](https://img.shields.io/github/followers/Gimsara2004?label=Follow%20Me&style=for-the-badge&logo=github&color=58a6ff)](https://github.com/Gimsara2004)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" />
