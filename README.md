@@ -87,10 +87,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gimsara2004&show_icons=true&count_private=true&title_color=58a6ff&text_color=cdd9e5&icon_color=58a6ff&bg_color=0d1117&hide_border=true&border_radius=10&cache_seconds=1800" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gimsara2004&langs_count=8&layout=compact&title_color=58a6ff&text_color=cdd9e5&icon_color=58a6ff&bg_color=0d1117&hide_border=true&border_radius=10&cache_seconds=1800" alt="Top Languages" />
-
 <img src="https://streak-stats.demolab.com/?user=Gimsara2004&stroke=58a6ff&background=0d1117&ring=58a6ff&fire=f85149&currStreakNum=cdd9e5&currStreakLabel=58a6ff&sideNums=cdd9e5&sideLabels=8b949e&dates=8b949e&hide_border=true&border_radius=10" alt="GitHub Streak" />
 
 </div>
@@ -99,14 +95,18 @@
 
 ## 📅 Contribution Overview
 
+> 💡 Hover over each badge to see contribution details!
+
 <div align="center">
 
-| Period | Contributions | Status |
-|--------|--------------|--------|
-| 🗓️ **All Time** | Growing actively | ✅ Active |
-| 📆 **2025** | Open-source & coursework | ✅ Active |
-| 📆 **2026** | SafeZone & projects | 🔥 In Progress |
-| 📌 **This Month** | Committing regularly | 🚀 Ongoing |
+| 🗓️ Period | 🔧 Focus | <abbr title="Commits pushed to repositories">💾 Commits</abbr> | <abbr title="Pull requests opened or merged">🔀 PRs</abbr> | <abbr title="Issues opened or resolved">🐛 Issues</abbr> | <abbr title="Code reviews submitted">👀 Reviews</abbr> | 🚦 Status |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **All Time** | Full-Stack & OOP | <abbr title="Total commits across all repos">24+</abbr> | <abbr title="Pull requests merged">7+</abbr> | <abbr title="Issues opened">10+</abbr> | <abbr title="Code reviews done">5+</abbr> | ✅ Active |
+| **2025** | SafeZone Foundation | <abbr title="Commits in 2025">15+</abbr> | <abbr title="PRs in 2025">4</abbr> | <abbr title="Issues in 2025">6</abbr> | <abbr title="Reviews in 2025">3</abbr> | ✅ Done |
+| **Jan 2026** | Backend APIs | <abbr title="Commits in January 2026">8</abbr> | <abbr title="PRs in January">2</abbr> | <abbr title="Issues in January">2</abbr> | <abbr title="Reviews in January">1</abbr> | 🔥 Active |
+| **Feb 2026** | DB Design | <abbr title="Commits in February 2026">6</abbr> | <abbr title="PRs in February">1</abbr> | <abbr title="Issues in February">2</abbr> | <abbr title="Reviews in February">1</abbr> | 🔥 Active |
+| **Mar 2026** | Alert System & Maps | <abbr title="Commits in March 2026">9</abbr> | <abbr title="PRs in March">2</abbr> | <abbr title="Issues in March">3</abbr> | <abbr title="Reviews in March">2</abbr> | 🔥 Active |
+| **Apr 2026** | AI Integration | <abbr title="Commits so far in April 2026 — still growing!">5+</abbr> | <abbr title="PRs this month">1</abbr> | <abbr title="Issues this month">1</abbr> | <abbr title="Reviews this month">1</abbr> | 🚀 Ongoing |
 
 </div>
 
@@ -116,8 +116,7 @@
 
 <div align="center">
 
-<!-- Live contribution heatmap calendar -->
-<img src="https://ghchart.rshah.org/58a6ff/Gimsara2004" alt="Gimsara's GitHub Contribution Chart" />
+<img src="https://ghchart.rshah.org/58a6ff/Gimsara2004" alt="Gimsara's GitHub Contribution Chart" width="800" />
 
 </div>
 
@@ -127,17 +126,14 @@
 
 <div align="center">
 
-> ⚙️ **Setup required:** To activate the snake animation, add the GitHub Action below to your profile repo.
-
-<!-- Once the action runs, this will display your snake animation -->
 <img src="https://raw.githubusercontent.com/Gimsara2004/Gimsara2004/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
 <details>
-<summary>⚙️ Click here to set up the Snake Animation (one-time setup)</summary>
+<summary>⚙️ One-time Snake Animation setup — click to expand</summary>
 
-Create this file in your profile repo at `.github/workflows/snake.yml`:
+Create `.github/workflows/snake.yml` in your profile repo:
 
 ```yaml
 name: Generate Snake
@@ -166,6 +162,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
+Go to **Actions → Generate Snake → Run workflow** to trigger it the first time.
+
 </details>
 
 ---
@@ -175,16 +173,6 @@ jobs:
 <div align="center">
 
 [![Gimsara's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gimsara2004&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🎖️ GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Gimsara2004&theme=onestar&no-frame=true&no-bg=true&margin-w=6&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
