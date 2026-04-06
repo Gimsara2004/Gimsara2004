@@ -122,13 +122,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Gimsara2004/Gimsara2004/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-
-</div>
 
 <details>
 <summary>⚙️ One-time Snake Animation setup — click to expand</summary>
