@@ -87,17 +87,90 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gimsara2004&show_icons=true&count_private=true&title_color=58a6ff&text_color=cdd9e5&icon_color=58a6ff&bg_color=0d1117&hide_border=true&border_radius=10)
+<img src="https://github-readme-stats.vercel.app/api?username=Gimsara2004&show_icons=true&count_private=true&title_color=58a6ff&text_color=cdd9e5&icon_color=58a6ff&bg_color=0d1117&hide_border=true&border_radius=10&cache_seconds=1800" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gimsara2004&langs_count=8&layout=compact&title_color=58a6ff&text_color=cdd9e5&icon_color=58a6ff&bg_color=0d1117&hide_border=true&border_radius=10)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gimsara2004&langs_count=8&layout=compact&title_color=58a6ff&text_color=cdd9e5&icon_color=58a6ff&bg_color=0d1117&hide_border=true&border_radius=10&cache_seconds=1800" alt="Top Languages" />
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Gimsara2004&stroke=58a6ff&background=0d1117&ring=58a6ff&fire=f85149&currStreakNum=cdd9e5&currStreakLabel=58a6ff&sideNums=cdd9e5&sideLabels=8b949e&dates=8b949e&hide_border=true&border_radius=10)
+<img src="https://streak-stats.demolab.com/?user=Gimsara2004&stroke=58a6ff&background=0d1117&ring=58a6ff&fire=f85149&currStreakNum=cdd9e5&currStreakLabel=58a6ff&sideNums=cdd9e5&sideLabels=8b949e&dates=8b949e&hide_border=true&border_radius=10" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## 🌐 3D Contribution Graph
+## 📅 Contribution Overview
+
+<div align="center">
+
+| Period | Contributions | Status |
+|--------|--------------|--------|
+| 🗓️ **All Time** | Growing actively | ✅ Active |
+| 📆 **2025** | Open-source & coursework | ✅ Active |
+| 📆 **2026** | SafeZone & projects | 🔥 In Progress |
+| 📌 **This Month** | Committing regularly | 🚀 Ongoing |
+
+</div>
+
+---
+
+## 🟩 Contribution Calendar
+
+<div align="center">
+
+<!-- Live contribution heatmap calendar -->
+<img src="https://ghchart.rshah.org/58a6ff/Gimsara2004" alt="Gimsara's GitHub Contribution Chart" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+> ⚙️ **Setup required:** To activate the snake animation, add the GitHub Action below to your profile repo.
+
+<!-- Once the action runs, this will display your snake animation -->
+<img src="https://raw.githubusercontent.com/Gimsara2004/Gimsara2004/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+<details>
+<summary>⚙️ Click here to set up the Snake Animation (one-time setup)</summary>
+
+Create this file in your profile repo at `.github/workflows/snake.yml`:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Gimsara2004
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
+---
+
+## 🌐 GitHub Activity Graph
 
 <div align="center">
 
@@ -111,7 +184,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Gimsara2004&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gimsara2004&theme=onestar&no-frame=true&no-bg=true&margin-w=6&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
