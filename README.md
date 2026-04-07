@@ -14,13 +14,12 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 **Software Engineering Undergraduate** at BCI Campus, Sri Lanka  
-- 🔭 Currently building: **SafeZone** — real-time civilian safety platform  
-- 🤝 Open to: **Open-source collaboration & real-world projects**  
-- 🧠 Interested in: **System design, scalable architectures, and AI integration**  
-- 📚 Currently learning: **Advanced software engineering & algorithms**  
-- 💬 Ask me about: **PHP, Python, Full-Stack Development**  
-- ⚡ Fun fact: I enjoy turning complex ideas into real working systems 🚀  
+- 🎓 Software Engineering Undergraduate at BCI Campus, Sri Lanka  
+- 🔭 Building **SafeZone** — real-time civilian safety platform  
+- 🤝 Open to collaborations & real-world projects  
+- 🧠 Interested in system design & scalable architectures  
+- 📚 Learning advanced software engineering & algorithms  
+- 💬 Ask me about PHP, Python & full-stack development  
 
 ---
 
@@ -30,7 +29,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gimsara%20Pieris-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gimsara-pieris-a39311343)
 [![GitHub](https://img.shields.io/badge/GitHub-Gimsara2004-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gimsara2004)
-[![Gmail](https://img.shields.io/badge/Email-gimsarapieris6%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gimsarapieris6@gmail.com)
+[![Email](https://img.shields.io/badge/Email-gimsarapieris6%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gimsarapieris6@gmail.com)
 
 </div>
 
@@ -69,27 +68,15 @@
 
 ## 🚀 Featured Project
 
-- 🛡️ **SafeZone** — Real-time civilian safety platform  
-  Built using **PHP, Python, JavaScript, MySQL**
+### 🛡️ SafeZone — Real-Time Civilian Safety Platform
 
-  **Key Features:**
-  - 🚨 Live threat alerts system  
-  - 🗺️ Interactive shelter mapping  
-  - 📢 Incident reporting  
-  - 🤖 AI assistant integration  
-  - ⚙️ Admin dashboard  
+- Real-time threat alerts  
+- Interactive shelter mapping  
+- Incident reporting system  
+- AI assistant integration  
+- Admin dashboard  
 
-👉 Repo: https://github.com/Gimsara2004/safezone  
-
----
-
-## 🧑‍💻 Developer Lifestyle
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
-
-</div>
+👉 https://github.com/Gimsara2004/safezone  
 
 ---
 
@@ -97,7 +84,17 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Gimsara2004&stroke=58a6ff&background=0d1117&ring=58a6ff&fire=f85149&currStreakNum=cdd9e5&currStreakLabel=58a6ff&sideNums=cdd9e5&sideLabels=8b949e&dates=8b949e&hide_border=true&border_radius=10" />
+<img src="https://streak-stats.demolab.com/?user=Gimsara2004&stroke=58a6ff&background=0d1117&ring=58a6ff&fire=f85149&currStreakNum=cdd9e5&currStreakLabel=58a6ff&hide_border=true"/>
+
+</div>
+
+---
+
+## 🟩 Contribution Graph
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/00ff00/Gimsara2004" alt="Gimsara Contribution Graph" width="90%"/>
 
 </div>
 
@@ -115,9 +112,7 @@
 
 <div align="center">
 
-✨ *"Code. Learn. Build. Repeat."* ✨  
-
-⭐ If you like my work, consider starring my repositories!
+✨ *Code. Learn. Build. Repeat.* ✨  
 
 [![Follow Me](https://img.shields.io/github/followers/Gimsara2004?label=Follow%20Me&style=for-the-badge&logo=github&color=58a6ff)](https://github.com/Gimsara2004)
 
