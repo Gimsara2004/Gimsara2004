@@ -90,13 +90,17 @@
 
 ---
 
+---
+
 ## 🟩 Contribution Graph
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/00ff00/Gimsara2004" alt="Gimsara Contribution Graph" width="90%"/>
+<img src="https://raw.githubusercontent.com/Gimsara2004/Gimsara2004/output/github-contribution-grid-snake-dark.svg" alt="pacman contribution graph" width="90%"/>
 
 </div>
+
+---
 
 ---
 
