@@ -90,20 +90,6 @@
 
 ---
 
----
-
-## 🟩 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Gimsara2004/Gimsara2004/output/github-contribution-grid-snake-dark.svg" alt="pacman contribution graph" width="90%"/>
-
-</div>
-
----
-
----
-
 ## 🌐 GitHub Activity Graph
 
 <div align="center">
