@@ -84,6 +84,10 @@
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=Gimsara2004&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gimsara2004&layout=compact&theme=tokyonight&hide_border=true"/>
+
 <img src="https://streak-stats.demolab.com/?user=Gimsara2004&stroke=58a6ff&background=0d1117&ring=58a6ff&fire=f85149&currStreakNum=cdd9e5&currStreakLabel=58a6ff&hide_border=true"/>
 
 </div>
