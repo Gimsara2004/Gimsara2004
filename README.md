@@ -104,6 +104,16 @@
 
 ---
 
+## 📈 3D Contribution Graph
+
+<div align="center">
+
+<img src="https://github-profile-3d-contrib.vercel.app/api/gist/Gimsara2004" alt="3D Contribution Graph" />
+
+</div>
+
+---
+
 <div align="center">
 
 ✨ *Code. Learn. Build. Repeat.* ✨  
